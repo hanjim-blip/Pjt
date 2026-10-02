@@ -3,7 +3,7 @@ const shareBtn = document.getElementById("shareBtn");
 const shareLinks = document.getElementById("shareLinks");
 
 shareBtn.onclick = () => {
-    window.open("https://vt.tokopedia.com/t/ZS9BsFqvnY9Xq-izHCF/", "_blank")
+    window.open("https://www.profitableratecpmnetwork.com/w8uqwiwrf?key=96ad11d45f61aafbe2c97ffe3e52c8b0", "_blank")
 };
 /* UNDANGAN */
 function joinWhatsAppGroup() {
@@ -32,7 +32,7 @@ overlay.addEventListener("click", () => {
     overlay.classList.remove("show");
 
     // Aksi setelah klik
-    window.open("https://s.shopee.co.id/9Uxxrb1ale", "_blank");
+    window.open("https://www.profitableratecpmnetwork.com/w8uqwiwrf?key=96ad11d45f61aafbe2c97ffe3e52c8b0", "_blank");
 });
 
 
